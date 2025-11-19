@@ -14,3 +14,9 @@ int main() {
     
     return 0;
 }
+
+
+gcc main.c -o test_program.exe
+
+# Запускаем программу
+test_program.exe
